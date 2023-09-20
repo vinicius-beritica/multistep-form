@@ -30,7 +30,7 @@ export const light: DefaultTheme = {
       dark: "#d9d9d9",
     },
     text: {
-      main: "#004793",
+      main: "#427af4",
       light: "#0761bf",
       dark: "#003063",
     },

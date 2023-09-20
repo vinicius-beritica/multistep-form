@@ -24,9 +24,8 @@ export const Content = styled.main`
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
+  text-align: left;
   padding: ${({ theme }) => theme.spacing.large};
-
   background: ${({ theme }) => theme.colors.background.main};
   color: ${({ theme }) => theme.colors.text.main};
 `;
