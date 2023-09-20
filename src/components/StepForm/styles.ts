@@ -8,7 +8,7 @@ export const Container = styled.div`
   padding: 1rem;
   flex: 1;
   margin: 2rem;
-
+  width: 550px;
   border-radius: 0.5rem;
   border-color: ${({ theme }) => theme.colors.background.light};
   background: ${({ theme }) => theme.colors.background.dark};
@@ -18,6 +18,7 @@ export const Container = styled.div`
 export const Title = styled.h2`
   font-size: 1.5rem;
   font-weight: 500;
+  margin-bottom: 10px;
   color: ${({ theme }) => theme.colors.text};
 `;
 

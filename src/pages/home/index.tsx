@@ -1,6 +1,5 @@
 import { MultiStepForm } from "../../components/MultiStepForm";
 import { ToggleButton } from "../../components/ToggleButton";
-
 import * as Styled from "./styles";
 const Home = () => {
   return (
